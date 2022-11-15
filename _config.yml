@@ -4,9 +4,9 @@ description: 'Proyecto León Marino, ecosistema sobre cambio climatico con enfoq
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sterna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "assets\img\branding\leonLogo.png"
-logo-icon: "assets\img\branding\leonLogo.png"
-logo-icon-SEO: "assets\img\branding\leonLogo.png" # must be a non SVG file
+logo: "/assets/img/branding/leonLogo.png"
+logo-icon: "assets/img/branding/leonLogo.png"
+logo-icon-SEO: "assets/img/branding/leonLogo.png" # must be a non SVG file
 
 # Site settings for repo sterna 
 title: Sterna
@@ -28,7 +28,7 @@ url: "https://github.com/Dannysdp/Sterna"
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "assets\img\branding\leonLogo.png  "
+logo-dark: "assets/img/branding/leonLogo.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
