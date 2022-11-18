@@ -14,7 +14,12 @@
 --shadow:      rgba(32,30,30,.3);
 }
 /*
-https://coolors.co/326273-4e3e51-db504a-201e1e-5f5e58-8d897c-b4b3a7-dad7d2-f0efed
+Color Theme Swatches in Hex
+.León-Marino-1-hex { color: #F2EAC2; }
+.León-Marino-2-hex { color: #A6FFB7; }
+.León-Marino-3-hex { color: #06F57F; }
+.León-Marino-4-hex { color: #CD0D0C; }
+.León-Marino-5-hex { color: #000752; }
 */
 /* DARK MODE colder */
 html[data-theme="dark"]  {
@@ -33,6 +38,9 @@ html[data-theme="dark"]  {
     }
     
     /*
-    https://coolors.co/d14c47-DBBEA1-5F8081-2B323B-cbcccd-b1b1ae-959692-7c7e7b-636564-3B3D40 
-    https://coolors.co/d14c47-DBBEA1-5f8081-333d47-2B323B-cbcccd-b1b1ae-959692-636564-3B3D40
+    .León-Marino-1-hex { color: #F2EAC2; }
+    .León-Marino-2-hex { color: #A6FFB7; }
+    .León-Marino-3-hex { color: #06F57F; }
+    .León-Marino-4-hex { color: #CD0D0C; }
+    .León-Marino-5-hex { color: #000752; }
     */
