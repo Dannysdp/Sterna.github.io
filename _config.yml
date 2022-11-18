@@ -28,7 +28,7 @@ url: "https://github.com/Dannysdp/Sterna"
 # the browser is closed or not)
 night_mode: "on"
 
-logo-dark: "assets/img/branding/LMSymbol.png"
+logo-dark: "assets/img/branding/LogoLarge.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
