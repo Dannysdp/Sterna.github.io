@@ -5,8 +5,8 @@ permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sterna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "assets/img/branding/LogoLarge.png"
-logo-icon: "assets/img/branding/LMSymbol.png"
-logo-icon-SEO: "assets/img/branding/LogoLarge.png" # must be a non SVG file
+logo-icon: "assets/img/branding/LM_Logo.svg"
+logo-icon-SEO: "assets/img/branding/LogoOnlySeaLion.png" # must be a non SVG file
 
 # Site settings for repo sterna 
 title: Sterna
@@ -33,7 +33,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Pedro Scheeffer # add your name
-author-pic: PedroScheeffer.jpg
+author-pic: "assets/img/PedroScheeffer.jpg"
 about-author: Estudiante ingenieria de sistema, interesado en ciencia de los datos.
 
 # Contact links
