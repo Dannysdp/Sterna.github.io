@@ -4,8 +4,8 @@ read_time: true # calculate and show read time based on number of words
 show_date: true # show the date of the post
 title:  Wastewater discharge with phytoplankton may favor cyanobacterial development in the main drinking water supply river in Uruguay
 date:   2022-11-20 12:00:00 -0300
-description: "Wastewater discharge with phytoplankton may favor cyanobacterial development in the main drinking water supply river in Uruguay"
-img: "assets\img\posts\stock\abstract_1.jpeg" # the path for the hero image, from the image folder (if the image is directly on the image folder, just the filename is needed)
+description: 
+img: assets\img\posts\stock\abstract_1.jpeg # the path for the hero image, from the image folder (if the image is directly on the image folder, just the filename is needed)
 tags: [chlorophyll_load, cyanobacterial_bloom, dairy_effluent, eutrophication,nutrient_load, stabilization_pond]
 author: #HOlano, #FMartigani, #ASomma, #LAubriot_H_Olano, #FMartigani, #ASomma, #LAubriot, 
 #github: username/reponame/ # set this to show a github button on the post
