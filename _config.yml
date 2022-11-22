@@ -33,7 +33,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Pedro Scheeffer # add your name
-author-pic: "assets/img/PedroScheeffer.png"
+author-pic: assets/img/PedroScheeffer.png
 about-author: Estudiante ingenieria de sistema, interesado en ciencia de los datos.
 
 # Contact links
