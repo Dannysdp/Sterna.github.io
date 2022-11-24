@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Que pasa con el agua de la costa?"
 date: 2022-11-22
-img: posts/20221122/INFOGRAF-1-Leon-Marino-final_02.png
+img: posts/stock/atardecer_Celeste.png
 tags: [cianobacteria, verano2019, agua]
 category: Articulo
 author: Nathalia Aceval
