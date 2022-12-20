@@ -10,9 +10,10 @@ category: Articulo
 author: Nathalia Aceval
 description: "Evaluación de una floración algal masiva en el Río de la Plata"
 ---
+
 ![ilustracion1](assets/img/posts/20221122/INFOGRAF-1-Leon-Marino-final_01.png)
 
-  El 70% de la población Uruguaya vive cercana a la costa y gran porcentaje de la población total accede al agua de consumo y de uso que proviene de cuerpos de agua. Sin muchas veces saberlo, todos los días nos exponemos nosotros y a nuestras familia y mascotas al riesgo importante que representa la disminución de la calidad del agua, como una de las consecuencias actuales y venideras del cambio climático
+Gran porcentaje de la población total accede al agua de consumo y de uso que proviene de cuerpos de agua. Sin muchas veces saberlo, todos los días nos exponemos nosotros y a nuestras familia y mascotas al riesgo importante que representa la disminución de la calidad del agua, como una de las consecuencias actuales y venideras del cambio climático.
 
 ![ilustracion0](assets/img/posts/20221122/INFOGRAF-1-Leon-Marino-final_02.png)
 

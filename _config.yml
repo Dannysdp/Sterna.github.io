@@ -33,13 +33,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Pedro Scheeffer # add your name
-author-pic: assets/img/PedroScheeffer.png
+author-pic: PedroScheeffer.png
 about-author: Estudiante ingenieria de sistema, interesado en ciencia de los datos.
 
 # Contact links
 email: pedro.s.d.p@hotmail.com # Add your Email address
 phone: 091820902 # Add your Phone number
-#website: https://amaynez.github.io # Add your website
+#website:  # Add your website
 linkedin: pedro-scheeffer-799b9614a # Add your Linkedin handle
 github: Dannysdp # Add your Github handle
 #twitter: '@MvmThe' # Add your Twitter handle
@@ -62,7 +62,7 @@ words_per_minute: 200
 comments: utteranc  #[disqus, utteranc]
 comments_opts:
   comments_curtain: yes # leave empty to show the disqus embed directly
-  repo: # The GitHub repo URL.  https://utteranc.es/
+  repo: Dannysdp/sterna.website # The GitHub repo URL.  https://utteranc.es/
   issue_term: # The GitHub issue label
   label: # The GitHub comments label
   theme: # The GitHub comment's there. e.g. github-dark
