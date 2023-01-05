@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Que pasa con el agua de la costa?"
 date: 2022-11-22
-img: posts/stock/atarceder_Celeste.png
+img: posts/20221122/2022-05-26-CianobacteriaRioNegro.jpeg
 tags: [cianobacteria, verano2019, agua]
 category: Articulo
 author: Nathalia Aceval

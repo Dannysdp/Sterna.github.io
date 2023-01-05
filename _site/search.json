@@ -11,6 +11,16 @@
     } ,
   
     {
+      "title"       : "Qué son las cianobacterias?",
+      "category"    : "Articulo",
+      "tags"        : "cianobacteria, uruguay, agua",
+      "url"         : "./La-Cianobacteria.html",
+      "date"        : "2022-11-22 00:00:00 -0300",
+      "description" : "Evaluación de una floración algal masiva en el Río de la Plata",
+      "content"     : ""
+    } ,
+  
+    {
       "title"       : "Que pasa con el agua de la costa?",
       "category"    : "Articulo",
       "tags"        : "cianobacteria, verano2019, agua",

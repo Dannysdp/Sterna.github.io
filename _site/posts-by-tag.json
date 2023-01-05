@@ -6,6 +6,8 @@
   "tag" : "agua",
   "posts" : [
       
+      "./La-Cianobacteria.html",
+      
       "./Que-Pasa-Agua-Costa.html"
       
     ]
@@ -15,6 +17,8 @@
   {
   "tag" : "cianobacteria",
   "posts" : [
+      
+      "./La-Cianobacteria.html",
       
       "./Que-Pasa-Agua-Costa.html"
       
@@ -57,6 +61,16 @@
   "posts" : [
       
       "./Assessing-the-origin-of-a-massive-cyanobacterial.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "uruguay",
+  "posts" : [
+      
+      "./La-Cianobacteria.html"
       
     ]
   } ,
