@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Qué son las cianobacterias?"
 date: 2022-12-28
-img: assets/img/posts/20221228/INFOGRAF-2--leon-marino--final_01.png
+img: posts/20221228/INFOGRAF-2--leon-marino--final_01.png
 tags: [cianobacteria, uruguay, agua]
 category: Articulo
 author: Nathalia Aceval, Pedro Scheeffer

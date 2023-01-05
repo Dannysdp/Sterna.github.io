@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Armando el rompecabeza"
 date: 2023-01-05
-img: assets/img/posts/20230105/bocetos-INFOGRAFÍA-3--sofi_01a.png
+img: posts/20230105/bocetos-INFOGRAFÍA-3--sofi_01a.png
 tags: [cianobacteria, uruguay, agua, eutrofización]
 category: Articulo
 author: Nathalia Aceval, Pedro Scheeffer
