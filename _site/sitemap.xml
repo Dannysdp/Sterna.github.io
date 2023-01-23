@@ -3,9 +3,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/2023-01-05-Armando-el-Rompecabeza.html</loc>
+      <loc>http://localhost:4000/Armando-El-Rompecabeza.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2022-12-31T00:00:00-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -19,19 +19,6 @@
       <loc>http://localhost:4000/La-Cianobacteria.html</loc>
       
         <lastmod>2022-12-28T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/Assessing-the-origin-of-a-massive-cyanobacterial.html</loc>
-      
-        <lastmod>2022-11-22T00:00:00-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -58,7 +45,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -73,7 +60,7 @@
     <url>
       <loc>http://localhost:4000/about.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -88,7 +75,7 @@
     <url>
       <loc>http://localhost:4000/all-posts.json</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -103,7 +90,7 @@
     <url>
       <loc>http://localhost:4000/archive.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -118,7 +105,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -133,7 +120,7 @@
     <url>
       <loc>http://localhost:4000/ipfs-404.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -148,7 +135,7 @@
     <url>
       <loc>http://localhost:4000/posts-by-tag.json</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -163,7 +150,7 @@
     <url>
       <loc>http://localhost:4000/search.json</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -180,7 +167,7 @@
     <url>
       <loc>http://localhost:4000/tag.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -195,7 +182,7 @@
     <url>
       <loc>http://localhost:4000/tags.html</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -210,7 +197,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2023-01-05T09:29:09-03:00</lastmod>
+        <lastmod>2023-01-23T09:39:54-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>

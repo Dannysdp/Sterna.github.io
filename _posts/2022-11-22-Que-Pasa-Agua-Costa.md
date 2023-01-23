@@ -1,6 +1,6 @@
 ---
 layout: post
-read_time: true
+read_time: false
 show_date: true
 title: "Que pasa con el agua de la costa?"
 date: 2022-11-22
@@ -41,3 +41,7 @@ Este evento se vinculó con descargas de las grandes represas hidroeléctricas, 
 
 
 Dentro de poco subiremos los otros dos artículos!
+
+[Articulo 1](Que-Pasa-Agua-Costa.html)
+[Articulo 2](La-Cianobacteria.html)
+[Articulo 3](Que-Pasa-Agua-Costa.html)

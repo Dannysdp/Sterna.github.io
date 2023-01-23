@@ -1,6 +1,6 @@
 ---
 layout: post
-read_time: true
+read_time: false
 show_date: true
 title: "Qué son las cianobacterias?"
 date: 2022-12-28
@@ -19,3 +19,8 @@ description: "Evaluación de una floración algal masiva en el Río de la Plata"
 ![ilustracion4](assets/img/posts/20221228/INFOGRAF-2--leon-marino--final_04.png)
 
 ![ilustracion5](assets/img/posts/20221228/INFOGRAF-2--leon-marino--final_05.png)
+
+
+[Articulo 1](Que-Pasa-Agua-Costa.html)
+[Articulo 2](La-Cianobacteria.html)
+[Articulo 3](Que-Pasa-Agua-Costa.html)
