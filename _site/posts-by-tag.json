@@ -6,6 +6,8 @@
   "tag" : "agua",
   "posts" : [
       
+      "./Armando-El-Rompecabeza-Causas.html",
+      
       "./La-Cianobacteria.html",
       
       "./Que-Pasa-Agua-Costa.html"
@@ -18,6 +20,8 @@
   "tag" : "cianobacteria",
   "posts" : [
       
+      "./Armando-El-Rompecabeza-Causas.html",
+      
       "./La-Cianobacteria.html",
       
       "./Que-Pasa-Agua-Costa.html"
@@ -27,8 +31,20 @@
     
       
   {
+  "tag" : "eutrofización",
+  "posts" : [
+      
+      "./Armando-El-Rompecabeza-Causas.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "uruguay",
   "posts" : [
+      
+      "./Armando-El-Rompecabeza-Causas.html",
       
       "./La-Cianobacteria.html"
       
