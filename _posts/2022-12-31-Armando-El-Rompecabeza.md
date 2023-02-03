@@ -24,4 +24,4 @@ description: "Producción, nutrientes, eutrofización y cianobacterias en Urugua
 
 [Articulo 1](Que-Pasa-Agua-Costa.html)
 [Articulo 2](La-Cianobacteria.html)
-[Articulo 3](Que-Pasa-Agua-Costa.html)
+[Articulo 3](Armando-El-Rompecabeza.html)
