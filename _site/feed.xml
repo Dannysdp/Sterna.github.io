@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/sterna/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sterna/" rel="alternate" type="text/html" /><updated>2023-02-03T01:40:37-03:00</updated><id>http://localhost:4000/sterna/feed.xml</id><title type="html">Sterna</title><subtitle>Ecositema de datos y papers, sobre cianobacteria en Uruguay</subtitle><author><name>Pedro Scheeffer</name></author><entry><title type="html">Armando el rompecabeza</title><link href="http://localhost:4000/sterna/Armando-El-Rompecabeza-Causas.html" rel="alternate" type="text/html" title="Armando el rompecabeza" /><published>2023-02-03T00:00:00-03:00</published><updated>2023-02-03T00:00:00-03:00</updated><id>http://localhost:4000/sterna/Armando-El-Rompecabeza-Causas</id><content type="html" xml:base="http://localhost:4000/sterna/Armando-El-Rompecabeza-Causas.html"><![CDATA[<p><img src="assets/img/posts/20230105/bocetos-INFOGRAFÍA-3--sofi_01a.png" alt="ilustracion1" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/sterna/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sterna/" rel="alternate" type="text/html" /><updated>2023-03-02T21:16:26-03:00</updated><id>http://localhost:4000/sterna/feed.xml</id><title type="html">Sterna</title><subtitle>Ecositema de datos y papers, sobre cianobacteria en Uruguay</subtitle><author><name>Pedro Scheeffer</name></author><entry><title type="html">Sterna: Visualizing the Ecosystem of Data on Cyanobacteria in Uruguay</title><link href="http://localhost:4000/sterna/Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay.html" rel="alternate" type="text/html" title="Sterna: Visualizing the Ecosystem of Data on Cyanobacteria in Uruguay" /><published>2023-03-02T00:00:00-03:00</published><updated>2023-03-02T00:00:00-03:00</updated><id>http://localhost:4000/sterna/Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay</id><content type="html" xml:base="http://localhost:4000/sterna/Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay.html"><![CDATA[<p>In recent years, the presence of cyanobacteria on the coast of Uruguay has become an increasingly important topic for researchers and environmentalists. To help better understand this issue, a new project called Sterna has been developed.
+<img src="assets\img\posts\20230302\papers-org.png" alt="pepersPerOrganization" /></p>
+
+<p>Sterna is a network of nodes containing papers about cyanobacteria in Uruguay. Each node contains important information such as the title, author, DOI, description and tags. The goal of Sterna is to help visualize the ecosystem of data, papers and authors related to this topic.+</p>
+
+<p>Demostration  https://youtu.be/UYBsV78MuiA</p>
+
+<p>To create this network, papers were added to an Excel file and then a Python script was used to read the file and create markdown files for the Obsidian program to read. This allowed for easy organization and visualization of the data.</p>
+
+<p>With Sterna, researchers and environmentalists can now easily access and understand the wealth of information available on cyanobacteria in Uruguay. This will undoubtedly aid in efforts to address this important issue.</p>
+
+<p>It is worth noting that a significant percentage of Uruguay’s population lives near its coast about 70%.</p>
+
+<p><img src="assets\img\posts\20230302\rivers-pop-uruguay.png" alt="popandRiversofUruguay" /></p>
+
+<p><img src="assets\img\posts\20230302\papers-depertaments.png" alt="PapersPorDepartamento.png" /></p>
+
+<p>Additionally, there has been an increase in papers about cyanobacteria with a focus on Uruguay over the last decade.</p>
+
+<p><img src="assets\img\posts\20230302\papers-year.gif" alt="papersperyear" /></p>
+
+<p>For more information about Sterna and its development process, you can visit its GitHub repository at https://github.com/Dannysdp/Sterna. There you will find detailed documentation on how Sterna was created as well as its source code.</p>]]></content><author><name>Pedro Scheeffer</name></author><category term="Articulo" /><category term="cianobacteria" /><category term="uruguay" /><category term="papers" /><category term="Data" /><summary type="html"><![CDATA[Presentation of Sterna]]></summary></entry><entry><title type="html">Armando el rompecabeza</title><link href="http://localhost:4000/sterna/Armando-El-Rompecabeza-Causas.html" rel="alternate" type="text/html" title="Armando el rompecabeza" /><published>2023-02-03T00:00:00-03:00</published><updated>2023-02-03T00:00:00-03:00</updated><id>http://localhost:4000/sterna/Armando-El-Rompecabeza-Causas</id><content type="html" xml:base="http://localhost:4000/sterna/Armando-El-Rompecabeza-Causas.html"><![CDATA[<p><img src="assets/img/posts/20230105/bocetos-INFOGRAFÍA-3--sofi_01a.png" alt="ilustracion1" /></p>
 
 <p><img src="assets/img/posts/20230105/bocetos-INFOGRAFÍA-3--sofi_02.png" alt="ilustracion2" /></p>
 

@@ -3,6 +3,16 @@
 [   
       
   {
+  "tag" : "Data",
+  "posts" : [
+      
+      "./Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "agua",
   "posts" : [
       
@@ -19,6 +29,8 @@
   {
   "tag" : "cianobacteria",
   "posts" : [
+      
+      "./Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay.html",
       
       "./Armando-El-Rompecabeza-Causas.html",
       
@@ -41,8 +53,20 @@
     
       
   {
+  "tag" : "papers",
+  "posts" : [
+      
+      "./Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "uruguay",
   "posts" : [
+      
+      "./Sterna-Visualizing-The-Ecosystem-Of-Data-On-Cyanobacterio-In-Uruguay.html",
       
       "./Armando-El-Rompecabeza-Causas.html",
       
