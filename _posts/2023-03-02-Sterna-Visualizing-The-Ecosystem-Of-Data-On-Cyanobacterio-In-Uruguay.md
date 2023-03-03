@@ -8,8 +8,7 @@ img: posts/stock/Atardecer_Verde.png
 tags: [cianobacteria, uruguay, papers, Data]
 category: Articulo
 author: Pedro Scheeffer
-description: > 
-    Presentation of Sterna
+description: Presentation of Sterna
 ---
 In recent years, the presence of cyanobacteria on the coast of Uruguay has become an increasingly important topic for researchers and environmentalists. To help better understand this issue, a new project called Sterna has been developed.
 ![pepersPerOrganization](assets\img\posts\20230302\papers-org.png)
